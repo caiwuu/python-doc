@@ -1,2 +1,2 @@
 # python-doc
-python-doc
+python-doc/
